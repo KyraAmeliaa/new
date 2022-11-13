@@ -167,12 +167,14 @@ mentions: [num],
 fileName: `HELLO 👋 SELAMAT DATANG DI GROUP ${metadata.subject}`,
 fileLength: 99999999999999,
 caption: he,
-footer: `𝐙𝐘𝐑𝐄𝐍𝐍 𝑪𝑹𝑨𝑺𝑯 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘`,
+footer: `𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘 𝐁𝐎𝐓
+`,
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title: `Jangan Lupa Tersenyum ☺️`,
-body: `𝐙𝐘𝐑𝐄𝐍𝐍 𝑪𝑹𝑨𝑺𝑯 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘`,
+body: `𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘 𝐁𝐎𝐓
+`,
 mediaType:2,
 thumbnail: buffer,
 sourceUrl: link,
@@ -194,12 +196,14 @@ mentions: [num],
 fileName: `SELAMAT TINGGAL 👋 ${metadata.subject}`,
 fileLength: 99999999999999,
 caption: he,
-footer: `𝐙𝐘𝐑𝐄𝐍𝐍 𝑪𝑹𝑨𝑺𝑯 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘`,
+footer: `𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘 𝐁𝐎𝐓
+`,
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title: `Jangan Lupa Tersenyum ☺️`,
-body: `𝐙𝐘𝐑𝐄𝐍𝐍 𝑪𝑹𝑨𝑺𝑯 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘`,
+body: `𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘 𝐁𝐎𝐓
+`,
 mediaType:2,
 thumbnail: buffer,
 sourceUrl: link,
