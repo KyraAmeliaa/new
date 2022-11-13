@@ -41,7 +41,7 @@ global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = '𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘 𝐁𝐎𝐓' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = ' 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘 𝐁𝐎𝐓 //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.botname = ' 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘 𝐁𝐎𝐓 ' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.footer = '𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘 𝐁𝐎𝐓' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
